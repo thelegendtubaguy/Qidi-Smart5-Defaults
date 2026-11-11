@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "soc_version": "01.01.02.01",
+  "firmware_archive": {
+    "filename": "S5_01.01.02.01_20261016_Release.zip",
+    "sha256": "5677f126716aaa0c084c02a787145bc911cd346badd87cca350cecaeebbc041e"
+  },
+  "firmware_manifest": {
+    "sha256": "854c31f880ef7d783ea70364456a38912673c7ef90b07d9c0b1ca24fde90d21b"
+  },
+  "soc_payload": {
+    "filename": "S5_SOC_01.01.02.01_20261016_Release_NA",
+    "sha256": "6630997ca6bf99bdb8519fdddab3f8b522d91eeb58cf5344b5fcde47a066add7",
+    "region": "NA"
+  }
+}
